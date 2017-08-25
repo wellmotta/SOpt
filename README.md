@@ -1,2 +1,2 @@
 # Sejam bem-vindos
-Respostas de perguntas feitas no site [pt.tackoverflow.com](http://pt.tackoverflow.com)
+Respostas de perguntas feitas no site [pt.stackoverflow.com](http://pt.stackoverflow.com)
