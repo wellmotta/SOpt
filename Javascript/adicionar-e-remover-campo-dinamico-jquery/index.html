@@ -1,0 +1,46 @@
+<!--
+Pergunta: https://pt.stackoverflow.com/questions/234828
+-->
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Adicionar e Remover campo dinamico</title>
+</head>
+<body>
+<!--
+O código abaixo, é como se fosse um template,  é ocultado, e atravês do jQuery fazemos o clone dele. Importante: ele deve ficar fora da tag FORM.
+-->
+<div id="_espc" class="hidden">
+    <p>
+        <p>
+          <label for="espc">Especialidades</label>
+          <select name="espc[]" id="espc">
+            <option value="1">Opção 1</option>
+            <option value="2">Opção 2</option>
+            <option value="3">Opção 3</option>
+            <option value="4">Opção 4</option>
+            <option value="5">Opção 5</option>
+          </select>
+        <input type="button" id="remover_espc" value="Remover">
+    </p>
+</div>
+
+<!-- Aqui vem seu form -->
+<form id="form_teste">
+    <p>
+      <!-- Botão para adicionar os campos -->
+        <input type="button" value="Add Especialidade" id="add_espc">
+    </p>
+  <p>
+    <!-- Botão para enviar o form, aqui fiz apenas para exemplo -->
+    <input type="button" value="Enviar" id="btn_enviar" />
+  </p>
+</form>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="script.js"></script>
+</body>
+</html>
