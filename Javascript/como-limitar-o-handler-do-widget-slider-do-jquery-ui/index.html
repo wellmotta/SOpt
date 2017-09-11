@@ -1,0 +1,38 @@
+<!--
+Pergunta: https://pt.stackoverflow.com/questions/236165
+Resposta: https://pt.stackoverflow.com/a/236174/60376
+-->
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Como limitar o handler do widget Slider do jQuery UI?</title>
+  <link rel="stylesheet" href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css" />
+  <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+  <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+  <style>
+  #custom-handle {
+  	width: 100px;
+	height: 1.6em;
+	top: 6px;
+	margin-top: 0;
+	text-align: center;
+	line-height: 1.6em;
+	font-size:11px;
+	margin-left: -1px; /* Defina a margin da esquerda como 0px */
+  }
+  body{padding:20px 30px;}
+  #slider{
+	height:20px;
+  }
+  </style>
+</head>
+<body>
+<div id="slider">
+  <div id="custom-handle" class="ui-slider-handle"></div>
+</div>
+<script src="script.js"></script>
+</body>
+</html>
