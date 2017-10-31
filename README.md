@@ -17,3 +17,4 @@ Respostas de perguntas feitas no site [pt.stackoverflow.com](http://pt.stackover
 
 ## Python
 - [Python 3 fazer o programa descobrir o quanto de um determinado dígito tem numa string ou um número](Python/contar-caracteres.py)
+- [Retirar caracteres específicos em Python](Python/retirar-caracteres-especificos-em-python.py)
