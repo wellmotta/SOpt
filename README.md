@@ -1,10 +1,12 @@
 # Sejam bem-vindos
 Respostas de perguntas feitas no site [pt.stackoverflow.com](http://pt.stackoverflow.com)
 
+## Boostrap
+- [Barra de rolagem mostrando sozinho](Boostrap/3/barra-de-rolagem-mostrando-sozinho)
 
 ## Javascript
-- [Problema ao criar um campo com adicionar e remover dinamico](Javascript/adicionar-e-remover-campo-dinamico-jquery)
 - [Como duplicar select sem option anterior](Javascript/como-duplicar-select-sem-option-anterior)
+- [Problema ao criar um campo com adicionar e remover dinamico](Javascript/adicionar-e-remover-campo-dinamico-jquery)
 - [Redirecionar conforme horário](Javascript/redirecionar-conforme-horario.js)
 
 ## PHP
