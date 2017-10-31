@@ -4,6 +4,9 @@ Respostas de perguntas feitas no site [pt.stackoverflow.com](http://pt.stackover
 ## Bootstrap
 - [Barra de rolagem mostrando sozinho](Boostrap/3/barra-de-rolagem-mostrando-sozinho)
 
+## CSharp
+- [Como comparar strings diferenciando maiúsculas de minúsculas?](CSharp/como-comparar-strings-diferenciando-maiusculas-de-minusculas.cs)
+
 ## Javascript
 - [Como duplicar select sem option anterior](Javascript/como-duplicar-select-sem-option-anterior)
 - [Problema ao criar um campo com adicionar e remover dinamico](Javascript/adicionar-e-remover-campo-dinamico-jquery)
