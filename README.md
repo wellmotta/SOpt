@@ -1,7 +1,7 @@
 # Sejam bem-vindos
 Respostas de perguntas feitas no site [pt.stackoverflow.com](http://pt.stackoverflow.com)
 
-## Boostrap
+## Bootstrap
 - [Barra de rolagem mostrando sozinho](Boostrap/3/barra-de-rolagem-mostrando-sozinho)
 
 ## Javascript
