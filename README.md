@@ -14,7 +14,7 @@ Respostas de perguntas feitas no site [pt.stackoverflow.com](http://pt.stackover
 
 ## PHP
 - [Detectando Palavra Chave](PHP/detectando-palavra-chave.php)
-- [Pegar string dentro de tag <a> sem atributos](PHP/pegar-string-dentro-de-tag-a-sem-atributos.php)
+- [Pegar string dentro de tag &lt;a&gt; sem atributos](PHP/pegar-string-dentro-de-tag-a-sem-atributos.php)
 
 ## Python
 - [Python 3 fazer o programa descobrir o quanto de um determinado dígito tem numa string ou um número](Python/contar-caracteres.py)
