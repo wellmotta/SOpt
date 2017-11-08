@@ -1,0 +1,19 @@
+/* Pergunta: https://pt.stackoverflow.com/questions/253379
+ * Demonstração: http://jsbin.com/lotudacoxi/edit?output
+ */
+
+.alert {
+  padding: 20px;
+  color: white;
+  margin-bottom: 15px;
+  display: none;
+}
+.erro {
+  background-color: #f44336;
+}
+.success {
+  background-color: green;
+}
+.info {
+  background-color: #069;
+}
