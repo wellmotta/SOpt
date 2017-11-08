@@ -12,6 +12,7 @@ Respostas de perguntas feitas no site [pt.stackoverflow.com](http://pt.stackover
 - [jQuery - Como duplicar select sem option anterior](Javascript/como-duplicar-select-sem-option-anterior)
 - [jQuery - Como usar toggleClass para 3 css diferentes?](Javascript/como-usar-toggleclass-para-3-css-diferentes)
 - [jQuery - Problema ao criar um campo com adicionar e remover dinamico](Javascript/adicionar-e-remover-campo-dinamico-jquery)
+- [jQuery - Verificar Disponibilidade do CEP](Javascript/verificar-disponibilidade-do-cep) - [Demo](http://jsbin.com/lotudacoxi/edit?output)
 - [Redirecionar conforme horário](Javascript/redirecionar-conforme-horario.js)
 
 ## PHP
