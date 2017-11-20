@@ -17,6 +17,7 @@ Respostas de perguntas feitas no site [pt.stackoverflow.com](http://pt.stackover
 
 ## PHP
 - [Detectando Palavra Chave](PHP/detectando-palavra-chave.php)
+- [Gerar Serial Key](PHP/gerar-serial-key-com-prefixo) - [Demo](https://repl.it/repls/VoluminousGrimCaracal)
 - [Pegar string dentro de tag &lt;a&gt; sem atributos](PHP/pegar-string-dentro-de-tag-a-sem-atributos.php)
 
 ## Python
