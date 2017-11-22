@@ -6,7 +6,6 @@ Respostas de perguntas feitas no site [pt.stackoverflow.com](http://pt.stackover
 
 ## CSharp
 - [Como comparar strings diferenciando maiúsculas de minúsculas?](CSharp/como-comparar-strings-diferenciando-maiusculas-de-minusculas.cs)
-- [Como sortear palavras de um array sem repetir as mesmas?](CSharp/como-sortear-palavras-de-um-array-sem-repetir-as-mesmas.cs) - [Demo](https://dotnetfiddle.net/rSm9HB)
 
 ## Javascript
 - [jQuery - Colorir campo select option chosen](Javascript/colorir-campo-select-option-chosen)
