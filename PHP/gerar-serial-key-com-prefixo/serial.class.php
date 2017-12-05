@@ -19,6 +19,7 @@ class Serial
     for($a=0;$a<5;$a++) {
       $this->prefixo .= $this->letras[rand(0, $max)];
     }
+    return $this;
   }
     
   /* 
@@ -31,7 +32,8 @@ class Serial
     for($b=0;$b<15;$b++){
       $serial .= (!($b % 5) && $b ? '-' : ''). $this->numeros[rand(0, $max)];
     }
-    return $this->prefixo."-".$serial;
+    echo $this->prefixo."-".$serial."\n";
+    return $this;
   }
   
 }
