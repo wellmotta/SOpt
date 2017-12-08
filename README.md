@@ -13,7 +13,7 @@ Respostas de perguntas feitas no site [pt.stackoverflow.com](http://pt.stackover
 - [jQuery - Como usar toggleClass para 3 css diferentes?](Javascript/como-usar-toggleclass-para-3-css-diferentes)
 - [jQuery - Problema ao criar um campo com adicionar e remover dinamico](Javascript/adicionar-e-remover-campo-dinamico-jquery)
 - [jQuery - Verificar Disponibilidade do CEP](Javascript/verificar-disponibilidade-do-cep) - [Demonstração](http://jsbin.com/lotudacoxi/edit?output)
-- [Máscara para input de matrícula](Javascript/mascara-para-input-de-matricula) - [Demonstração](http://jsbin.com/mokuvaqiju/edit?html,console,output)
+- [Máscara para input de matrícula](Javascript/mascara-para-input-de-matricula) - [Demonstração](http://jsbin.com/zojayapadu/edit?html,console,output)
 - [Redirecionar conforme horário](Javascript/redirecionar-conforme-horario.js)
 
 ## PHP
