@@ -5,17 +5,20 @@
   <meta name="viewport" content="width=device-width">
   <title>Máscara para input de matrícula</title>
   <style>
-  input {
-    border: 2px solid #ccc;
-    color: #069;
-    padding: 8px;
-  }
+    input {
+      border: 2px solid #ccc;
+      color: #069;
+      padding: 8px;
+    }
+    .invalido {
+      border-color: red;
+    }
   </style>
 </head>
 <body>
   <!--
   Pergunta: https://pt.stackoverflow.com/questions/261364
-  Demonstração: http://jsbin.com/mokuvaqiju/edit?html,console,output
+  Demonstração: http://jsbin.com/zojayapadu/edit?html,console,output
   -->
   <input type="text" name="matricula" id="matricula" maxlength="7" onkeyup="maskMatricula(this);" />
   <script>
@@ -25,6 +28,11 @@
     matricula = matricula.replace(/(\d{4,5})(\d{1})$/,"$1-$2"); // 4 ou 5 digitos a esquerda e 1 a direita
     el.value = matricula; // Insere o valor formatado no input
     console.log(matricula);
+    if (el.value.length < 5) {
+      el.classList.add("invalido");
+    } else {
+      el.classList.remove("invalido");
+    }
   }
   </script>
 </body>
