@@ -8,6 +8,7 @@ Respostas de perguntas feitas no site [pt.stackoverflow.com](http://pt.stackover
 - [Como comparar strings diferenciando maiúsculas de minúsculas?](CSharp/como-comparar-strings-diferenciando-maiusculas-de-minusculas.cs)
 
 ## Javascript
+- [Clonar funções de forma profunda](Javascript/clonar-funcoes-de-forma-profunda)
 - [jQuery - Colorir campo select option chosen](Javascript/colorir-campo-select-option-chosen)
 - [jQuery - Como duplicar select sem option anterior](Javascript/como-duplicar-select-sem-option-anterior)
 - [jQuery - Como usar toggleClass para 3 css diferentes?](Javascript/como-usar-toggleclass-para-3-css-diferentes)
