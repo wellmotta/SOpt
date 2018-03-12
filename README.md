@@ -11,6 +11,7 @@ Respostas de perguntas feitas no site [pt.stackoverflow.com](http://pt.stackover
 - [jQuery - Colorir campo select option chosen](Javascript/colorir-campo-select-option-chosen)
 - [jQuery - Como duplicar select sem option anterior](Javascript/como-duplicar-select-sem-option-anterior)
 - [jQuery - Como usar toggleClass para 3 css diferentes?](Javascript/como-usar-toggleclass-para-3-css-diferentes)
+- [jQuery - Escurecer tela ao clicar na barra de busca](Javascript/escurecer-tela-ao-clicar-na-barra-de-busca) - [Demonstração](http://jsbin.com/bovejobezo)
 - [jQuery - Problema ao criar um campo com adicionar e remover dinamico](Javascript/adicionar-e-remover-campo-dinamico-jquery)
 - [jQuery - Verificar Disponibilidade do CEP](Javascript/verificar-disponibilidade-do-cep) - [Demonstração](http://jsbin.com/lotudacoxi/edit?output)
 - [Máscara para input de matrícula](Javascript/mascara-para-input-de-matricula) - [Demonstração](http://jsbin.com/zojayapadu/edit?html,console,output)
